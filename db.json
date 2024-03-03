@@ -103,6 +103,22 @@
           "email": "gonza@mail.com",
           "bank": "Banco de Chile",
           "account": "042222222223"
+        },
+        {
+          "id": 6,
+          "name": "María",
+          "lastname": "Benavides",
+          "email": "m.benavides@mail.com",
+          "bank": "Banco Santander",
+          "account": "0777777777"
+        },
+        {
+          "id": 7,
+          "name": "Luffy",
+          "lastname": "Monkey D",
+          "email": "kaizokuOu@mail.com",
+          "bank": "Banco del East Blue",
+          "account": "5656565656"
         }
       ]
     }
