@@ -87,6 +87,22 @@
           "email": "natalia.correa@mail.com",
           "bank": "Banco de Chile",
           "account": "044444433333"
+        },
+        {
+          "id": 4,
+          "name": "Jorge",
+          "lastname": "Correa",
+          "email": "jorge@mail.com",
+          "bank": "Banco Scotiabank",
+          "account": "08888888999"
+        },
+        {
+          "id": 5,
+          "name": "Gonzalo",
+          "lastname": "Mardones",
+          "email": "gonza@mail.com",
+          "bank": "Banco de Chile",
+          "account": "042222222223"
         }
       ]
     }
