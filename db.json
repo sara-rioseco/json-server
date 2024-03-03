@@ -17,7 +17,9 @@
           "id": 1,
           "name": "Mauricio",
           "lastname": "Rioseco",
-          "email": "mauricio@mail.com"
+          "email": "mauricio@mail.com",
+          "bank": "Banco Itau",
+          "account": "00006666666"
         }
       ]
     },
@@ -38,7 +40,9 @@
           "id": 1,
           "name": "Mauricio",
           "lastname": "Rioseco",
-          "email": "mauricio@mail.com"
+          "email": "mauricio@mail.com",
+          "bank": "Banco Santander",
+          "account": "05555555555"
         }
       ]
     },
@@ -46,7 +50,7 @@
       "id": 3,
       "name": "Juanita",
       "lastname": "Perez",
-      "email": "juanita@mail.com",
+      "email": "joanita@mail.com",
       "password": "password",
       "role": "user",
       "balance": 600,
@@ -64,19 +68,25 @@
           "id": 1,
           "name": "Marta",
           "lastname": "García",
-          "email": "martita@mail.com"
+          "email": "martita@mail.com",
+          "bank": "Banco Santander",
+          "account": "02222222222"
         },
-                {
+        {
           "id": 2,
           "name": "Guillermo",
           "lastname": "Perez",
-          "email": "guille@mail.com"
+          "email": "guille@mail.com",
+          "bank": "Banco Scotiabank",
+          "account": "05555566666"
         },
-                {
+        {
           "id": 3,
           "name": "Natalia",
           "lastname": "Correa",
-          "email": "natalia.correa@mail.com"
+          "email": "natalia.correa@mail.com",
+          "bank": "Banco de Chile",
+          "account": "044444433333"
         }
       ]
     }
