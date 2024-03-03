@@ -46,18 +46,39 @@
       "id": 3,
       "name": "Juanita",
       "lastname": "Perez",
-      "email": "joanita@mail.com",
+      "email": "juanita@mail.com",
       "password": "password",
       "role": "user",
-      "balance": 800,
+      "balance": 600,
       "transactions": [
+        { "date": "02-20-2024", "amount": 500, "type": "deposit" },
+        { "date": "02-22-2024", "amount": -500, "type": "transfer" },
+        { "date": "02-22-2024", "amount": 500, "type": "deposit" },
         { "date": "02-24-2024", "amount": 500, "type": "deposit" },
-        { "date": "02-24-2024", "amount": -500, "type": "transfer" },
-        { "date": "02-24-2024", "amount": 500, "type": "deposit" },
-        { "date": "02-24-2024", "amount": 500, "type": "deposit" },
-        { "date": "02-24-2024", "amount": -200, "type": "transfer" }
+        { "date": "02-24-2024", "amount": -200, "type": "transfer" },
+        { "date": "03-01-2024", "amount": 100, "type": "deposit" },
+        { "date": "03-02-2024", "amount": -300, "type": "transfer" }
       ],
-      "contacts": []
+      "contacts": [
+        {
+          "id": 1,
+          "name": "Marta",
+          "lastname": "García",
+          "email": "martita@mail.com"
+        },
+                {
+          "id": 2,
+          "name": "Guillermo",
+          "lastname": "Perez",
+          "email": "guille@mail.com"
+        },
+                {
+          "id": 3,
+          "name": "Natalia",
+          "lastname": "Correa",
+          "email": "natalia.correa@mail.com"
+        }
+      ]
     }
   ]
 }
